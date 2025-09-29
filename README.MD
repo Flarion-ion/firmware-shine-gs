@@ -7,3 +7,8 @@
 cat system.img.part.* > system.img
 ```
 
+#### repair vendor.img
+
+```bash
+cat vendor.img.part.* > vendor.img
+```
